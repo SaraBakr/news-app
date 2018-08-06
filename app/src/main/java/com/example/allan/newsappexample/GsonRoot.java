@@ -34,7 +34,7 @@ public class GsonRoot
     }
 
     public void setTotalResults(int totalResults) {
-        this.totalResults = totalResults;
+         this.totalResults = totalResults;
     }
 
     public List<ArticlesBean> getArticles() {
