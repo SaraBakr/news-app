@@ -72,7 +72,7 @@ class ArticlesBean {
         return urlToImage;
     }
 
-    public void setUrlToImage(String  urlToImage) {
+     public void setUrlToImage(String  urlToImage) {
         this.urlToImage = urlToImage;
     }
 
