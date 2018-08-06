@@ -80,7 +80,7 @@ class ArticlesBean {
         return publishedAt;
     }
 
-    public void setPublishedAt(String publishedAt) {
+    public  void setPublishedAt(String publishedAt) {
         this.publishedAt  = publishedAt;
     }
 }
