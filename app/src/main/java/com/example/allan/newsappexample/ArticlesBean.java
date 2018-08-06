@@ -81,6 +81,6 @@ class ArticlesBean {
     }
 
     public void setPublishedAt(String publishedAt) {
-        this.publishedAt = publishedAt;
+        this.publishedAt  = publishedAt;
     }
 }
