@@ -72,12 +72,12 @@ class ArticlesBean {
         return urlToImage;
     }
 
-    public void setUrlToImage(String urlToImage) {
+    public void setUrlToImage(String  urlToImage) {
         this.urlToImage = urlToImage;
     }
 
     public String getPublishedAt() {
-        return publishedAt;
+        return  publishedAt;
     }
 
     public  void setPublishedAt(String publishedAt) {
